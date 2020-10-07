@@ -30,6 +30,11 @@
     * TD 02_1 - Fonctions récursives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_02_1.ipynb)
 * III. Les limites [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_02_3.ipynb)
     * TD 02_2 - Ecrire des fonctions récursives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_02_2.ipynb)
+    
+### Cours 03 - Cryptographie
+* I. Cesar [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_03_1.ipynb)
+* II. Vigenère [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_03_2.ipynb)
+* III. Chiffrement à clé publique 
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
