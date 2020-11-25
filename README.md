@@ -34,7 +34,20 @@
 ### Cours 03 - Cryptographie
 * I. Cesar [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_03_1.ipynb)
 * II. Vigenère [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_03_2.ipynb)
-* III. Chiffrement à clé publique 
+* III. Chiffrement à clé publique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_03_3.ipynb)
+    * TD_03_1 - Générer des nombres premiers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_03_1.ipynb)
+    * TD_03_2 - RSA 1/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_03_2.ipynb)
+    * TD_03_3 - RSA 2/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_03_3.ipynb)
+
+### Cours 04 - Rappels et approfondissements sur les tris
+* I. Tri insertion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_1.ipynb)
+    * TD_04_1 - efficacité d'un tri [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=TD_04_1.ipynb)
+* II. Tri à bulles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_2.ipynb)
+* III. Tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_3.ipynb)
+* IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_4.ipynb)
+    * TD_04_2 - stratégie diviser pour régner dans les tris (à venir)
+    * TD_04_3 - coût temporel dans différents cas (à venir)
+
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
