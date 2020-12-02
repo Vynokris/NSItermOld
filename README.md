@@ -45,8 +45,10 @@
 * II. Tri à bulles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_2.ipynb)
 * III. Tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_3.ipynb)
 * IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_4.ipynb)
-    * TD_04_2 - stratégie diviser pour régner dans les tris (à venir)
-    * TD_04_3 - coût temporel dans différents cas (à venir)
+    
+### Cours 05 - Diviser pour régner
+* I. Retour sur les cas des tris (fusion et quicksort) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_05_1.ipynb)
+* II. Autres algorithmes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_05_2.ipynb)
 
 
 This work is licensed under a
