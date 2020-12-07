@@ -45,7 +45,7 @@
 * II. Tri à bulles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_2.ipynb)
 * III. Tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_3.ipynb)
 * IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_04_4.ipynb)
-* V. Rappels et Approfondissements [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=Révisions et Approfondissements.ipynb)
+* V. Rappels et Approfondissements [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=Révisions_et_Approfondissements.ipynb)
     
 ### Cours 05 - Diviser pour régner
 * I. Retour sur les cas des tris (fusion et quicksort) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_05_1.ipynb)
