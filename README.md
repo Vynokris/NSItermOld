@@ -49,7 +49,9 @@
     
 ### Cours 05 - Diviser pour régner
 * I. Retour sur les cas des tris (fusion et quicksort) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_05_1.ipynb)
-* II. Autres algorithmes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_05_2.ipynb)
+
+### Cours 06 - Les Arbres
+* I. Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vynokris/NSIterm/master?filepath=cours_06_1.ipynb)
 
 
 This work is licensed under a
